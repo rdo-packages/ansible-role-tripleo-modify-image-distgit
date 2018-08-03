@@ -21,6 +21,7 @@ BuildRequires:  python-d2to1
 BuildRequires:  python2-pbr
 
 Requires: ansible
+Requires: buildah
 
 %description
 
