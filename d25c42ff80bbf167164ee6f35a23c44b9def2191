@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ad0253b_aaa9b3e1",
+        "filename": "ansible-role-tripleo-modify-image.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2019-01-09T10:05:08Z",
+      "side": 1,
+      "message": "python2",
+      "range": {
+        "startLine": 22,
+        "startChar": 16,
+        "endLine": 22,
+        "endChar": 22
+      },
+      "revId": "d25c42ff80bbf167164ee6f35a23c44b9def2191",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ad0253b_6aacbbed",
+        "filename": "ansible-role-tripleo-modify-image.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2019-01-09T10:05:08Z",
+      "side": 1,
+      "message": "python",
+      "range": {
+        "startLine": 24,
+        "startChar": 16,
+        "endLine": 24,
+        "endChar": 23
+      },
+      "revId": "d25c42ff80bbf167164ee6f35a23c44b9def2191",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
