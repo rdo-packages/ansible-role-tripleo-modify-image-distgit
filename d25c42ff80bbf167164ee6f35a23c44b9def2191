@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5ad0253b_aa809347",
+        "filename": "ansible-role-tripleo-modify-image.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2019-01-09T10:10:08Z",
+      "side": 1,
+      "message": "I don\u0027t think there is any reason to keep py2.",
+      "parentUuid": "5ad0253b_8aaf17e3",
+      "revId": "d25c42ff80bbf167164ee6f35a23c44b9def2191",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5ad0253b_4ab9ff2d",
         "filename": "ansible-role-tripleo-modify-image.spec",
         "patchSetId": 1
