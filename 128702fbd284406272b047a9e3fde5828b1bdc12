@@ -46,6 +46,30 @@
       "revId": "128702fbd284406272b047a9e3fde5828b1bdc12",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "28e4c9b0_0e908a5c",
+        "filename": "ansible-role-tripleo-modify-image.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2019-10-18T13:25:36Z",
+      "side": 1,
+      "message": "Yes, this looks ok to me",
+      "parentUuid": "8ba57e2a_6b49d1af",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 37,
+        "endChar": 6
+      },
+      "revId": "128702fbd284406272b047a9e3fde5828b1bdc12",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
