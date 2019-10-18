@@ -22,6 +22,30 @@
       "revId": "128702fbd284406272b047a9e3fde5828b1bdc12",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8ba57e2a_6b49d1af",
+        "filename": "ansible-role-tripleo-modify-image.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2019-10-18T13:21:49Z",
+      "side": 1,
+      "message": "Yeah, I also removed ansible in first condition...\nI put the two conditions %{pyver} \u003d\u003d 2 || 0%{?rhel} \u003e 7 in same line now. Is it ok ?",
+      "parentUuid": "e9f42a26_d0ce2987",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 37,
+        "endChar": 6
+      },
+      "revId": "128702fbd284406272b047a9e3fde5828b1bdc12",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
