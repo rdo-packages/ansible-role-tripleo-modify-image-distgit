@@ -4,8 +4,8 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 
 Name:           %{rolename}
-Version:        XXX
-Release:        XXX
+Version:        1.2.0
+Release:        1%{?dist}
 Summary:        Ansible role to allow modification to container images built for the TripleO project.
 
 Group:          System Environment/Base
@@ -50,4 +50,7 @@ export SKIP_PIP_INSTALL=1
 
 
 %changelog
+* Thu May 21 2020 RDO <dev@lists.rdoproject.org> 1.2.0-1
+- Update to 1.2.0
+
 
