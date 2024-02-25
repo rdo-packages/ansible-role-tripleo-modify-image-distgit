@@ -73,3 +73,4 @@ export SKIP_PIP_INSTALL=1
 - Update to 1.5.0
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/ansible-role-tripleo-modify-image/commit/cbf9d36df6cf675b958a2504e319e6403cacf2df
